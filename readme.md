@@ -41,12 +41,12 @@ The project combines detection engineering, threat intelligence enrichment, and 
 
 | Detection Rule | File |
 |----------------|------|
-| Initial Access | [Initial_Access.ndjson](./Initial_Access.ndjson) |
-| Execution | [Execution.ndjson](./Execution.ndjson) |
-| Credential Access | [Credential_Access.ndjson](./Credential_Access.ndjson) |
-| Persistence | [Persistence.ndjson](./Persistence.ndjson) |
-| Exfiltration & Command and Control | [Exfiltration_C2.ndjson](./Exfiltration_C2.ndjson) |
-| Complete Detection Rules | [PredatorSec_All_250.ndjson](./PredatorSec_All_250.ndjson) |
+| Initial Access | [Initial_Access.ndjson](.PredatorSec_Elastic_Rules_Renamed_All_Sections/Initial_Access.ndjson) |
+| Execution | [Execution.ndjson](.PredatorSec_Elastic_Rules_Renamed_All_Sections/Execution.ndjson) |
+| Credential Access | [Credential_Access.ndjson](.PredatorSec_Elastic_Rules_Renamed_All_Sections/Credential_Access.ndjson) |
+| Persistence | [Persistence.ndjson](.PredatorSec_Elastic_Rules_Renamed_All_Sections/Persistence.ndjson) |
+| Exfiltration & Command and Control | [Exfiltration_C2.ndjson](.PredatorSec_Elastic_Rules_Renamed_All_Sections/Exfiltration_C2.ndjson) |
+| Complete Detection Rules | [PredatorSec_All_250.ndjson](.PredatorSec_Elastic_Rules_Renamed_All_Sections/PredatorSec_All_250.ndjson) |
 
 ---
 
