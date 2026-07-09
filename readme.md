@@ -94,7 +94,7 @@ Information Stealer
  Endpoint Logs
         │
         ▼
- Filebeat
+    Filebeat
         │
         ▼
  Elasticsearch
