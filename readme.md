@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ PredatorSec
+# 🛡️ InfoStealer
 ## InfoStealer Detection & Response
 
 Integrated SIEM & SOAR Project using **Elastic Security**, **Shuffle SOAR**, and **Python**
@@ -169,7 +169,7 @@ Detection rules can be customized before importing into Elastic Security.
 
 <div align="center">
 
-### PredatorSec • InfoStealer Detection & Response
+###  • InfoStealer Detection & Response
 
 Integrated SIEM • Detection Engineering • SOAR Automation
 
