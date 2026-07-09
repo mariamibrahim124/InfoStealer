@@ -120,50 +120,9 @@ Information Stealer
 
 ---
 
-# 📸 Project Preview
-
-> Screenshots can be added after uploading them to the repository.
-
-```text
-images/
-├── elastic-alert.png
-├── python-script.png
-├── shuffle-workflow.png
-└── dashboard.png
-```
-
-Example:
-
-```md
-<p align="center">
-<img src="images/elastic-alert.png" width="900">
-</p>
-
-<p align="center">
-<img src="images/shuffle-workflow.png" width="900">
-</p>
-```
-
----
-
 # 📄 Documentation
 
 The complete implementation details, architecture, methodology, testing process, and project report are available in the accompanying documentation.
-
----
-
-# 📌 Notes
-
-Default Elastic indices:
-
-```text
-logs-*
-winlogbeat-*
-logs-endpoint.events.*
-```
-
-Detection rules can be customized before importing into Elastic Security.
-
 
 ---
 
