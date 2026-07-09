@@ -127,7 +127,7 @@ The following documents provide additional details about the project design, imp
 | Document | Link |
 |----------|------|
 | Project Report | [InfoStealer_Project_Report.pdf](./InfoStealer_Project_Report.pdf) |
-| Project Presentation | [InfoStealer_Presentation.pptx](./InfoStealer_Presentation.pptx) |
+| Project Presentation | [InfoStealer_Presentation.pptx](./InfoStealer_Presentation.pdf) |
 
 ---
 
