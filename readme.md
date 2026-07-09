@@ -120,9 +120,14 @@ Information Stealer
 
 ---
 
-# 📄 Documentation
+# 📚 Project Documents
 
-The complete implementation details, architecture, methodology, testing process, and project report are available in the accompanying documentation.
+The following documents provide additional details about the project design, implementation, and presentation.
+
+| Document | Link |
+|----------|------|
+| Project Report | [InfoStealer_Project_Report.pdf](./InfoStealer_Project_Report.pdf) |
+| Project Presentation | [InfoStealer_Presentation.pptx](./InfoStealer_Presentation.pptx) |
 
 ---
 
