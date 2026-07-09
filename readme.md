@@ -26,7 +26,7 @@ The project combines detection engineering, threat intelligence enrichment, and 
 
 # 👥 Team Members
 
-- Eslam
+- Eslam Ahmed Mohamed Abdel Hafez
 - Omar Khaled Mohamed Kamal Abdo
 - Gamal Mohamed Yassin Mahmoud
 - Mariam Hossam Eldin Hussien
