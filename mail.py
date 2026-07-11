@@ -10,7 +10,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ================= 1. إعدادات ElasticSearch =================
 ELASTIC_URL = "http://localhost:9200/.internal.alerts-security.alerts-*/_search"
-ELASTIC_AUTH = ('elastic', 'kgWAcmdSrn7ihL=INX3S')
+ELASTIC_AUTH = ('elastic', '') #password elastic
 
 # ================= 2. إعدادات Shuffle SOAR =================
 # حط اللينك اللي نسخته من Shuffle هنا
